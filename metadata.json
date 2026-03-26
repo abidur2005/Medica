@@ -1,0 +1,5 @@
+{
+  "name": "Medica",
+  "description": "A comprehensive HealthTech platform for medicine delivery, pharmacy management, blood bank, and free health sessions.",
+  "requestFramePermissions": ["geolocation"]
+}
